@@ -1,5 +1,5 @@
 export default class World {
-  // クラスで使うプロパティ
+  // このクラスで使うプロパティ
   message: string;
 
   // コンストラクタ（初期化）
